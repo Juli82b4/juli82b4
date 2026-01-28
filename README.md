@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDFF7&width=435&lines=About+Me+---------+%3E)](https://git.io/typing-svg)
-
-👋 Hi, I’m Juliya<br><br>Frontend developer based in Aarhus, Denmark<br><br>Recently graduated and passionate about building clean, user-friendly, and responsive web applications.<br><br>💻 Currently looking for an entry-level frontend role and enrolled in a bootcamp <br>🎨 Interested in UX/UI design and working with Figma<br> 📸 Passionate about content creation, photography, and editing <br>🤝 Team-oriented, curious, and always eager to learn<br><br>I believe consistency, hard work, and collaboration lead to great results.
+Hi, I’m Juliya <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<br><br>Frontend developer based in Aarhus, Denmark<br><br>Recently graduated and passionate about building clean, user-friendly, and responsive web applications.<br><br>💻 Currently looking for an entry-level frontend role and enrolled in a bootcamp <br>🎨 Interested in UX/UI design and working with Figma<br> 📸 Passionate about content creation, photography, and editing <br>🤝 Team-oriented, curious, and always eager to learn<br><br>I believe consistency, hard work, and collaboration lead to great results.
 
 
 ## 🌐 Socials:
